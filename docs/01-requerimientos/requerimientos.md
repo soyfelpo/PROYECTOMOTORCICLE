@@ -82,39 +82,6 @@ El usuario proporciona la información necesaria de su motocicleta y realiza el 
 | RNF07 | Integridad     | El sistema debe evitar registros incompletos o inconsistentes.                                                       |
 | RNF08 | Compatibilidad | El sistema debe funcionar correctamente en el entorno definido para el proyecto.                                     |
 
-# 7. Reglas de negocio
-
-| ID   | Regla                                                                                     |
-| ---- | ----------------------------------------------------------------------------------------- |
-| RN01 | El parqueadero tiene una capacidad máxima de 23 motocicletas.                             |
-| RN02 | Cada motocicleta debe ocupar un único espacio mientras permanezca en el parqueadero.      |
-| RN03 | La placa permite identificar una motocicleta dentro del sistema.                          |
-| RN04 | Una motocicleta no debe ocupar más de un espacio simultáneamente.                         |
-| RN05 | El valor del servicio es de $40 por hora.                                                 |
-| RN06 | Para registrar la salida debe existir previamente un registro de ingreso.                 |
-| RN07 | Al registrar la salida, el espacio ocupado debe quedar disponible nuevamente.             |
-| RN08 | El pago debe registrarse antes de finalizar el proceso de salida.                         |
-| RN09 | No se deben permitir ingresos cuando todos los espacios estén ocupados.                   |
-| RN10 | La información del ingreso debe conservarse para poder calcular el tiempo de permanencia. |
-
-# 8. Restricciones
-
-* El sistema debe trabajar con una capacidad inicial de 23 espacios.
-* La tarifa establecida para el servicio es de $40 por hora.
-* Cada motocicleta debe identificarse mediante su placa.
-* El sistema debe conservar la información necesaria para calcular el valor del servicio.
-* Las operaciones deben realizarse de acuerdo con las reglas establecidas para el parqueadero.
-
-# 9. Criterios de aceptación
-
-El sistema será considerado funcional cuando:
-
-* Sea posible registrar correctamente una motocicleta.
-* Sea posible asignar un espacio disponible.
-* Se registre correctamente la hora de ingreso.
-* Se pueda consultar la disponibilidad de los espacios.
-* Se pueda registrar la salida de una motocicleta.
-* El sistema calcule correctamente el tiempo de permanencia.
 * El sistema calcule el valor correspondiente al servicio.
 * Se pueda registrar el método de pago.
 * El espacio quede disponible después de registrar la salida.
