@@ -30,8 +30,8 @@ Sistema de control y registro para la administración eficiente de un parqueader
 
 ##  Tecnologías y Requisitos
 
-* **Lenguaje de Programación:** C / Python (según la implementación).
-* **Entorno:** Ejecución desde consola / terminal.
+* **Lenguaje de Programación:** java (según la implementación).
+
 
 ---
 
@@ -47,6 +47,6 @@ Sistema de control y registro para la administración eficiente de un parqueader
 
 
 
-## 📄 Licencia
+##  Licencia
 
-Este proyecto está bajo la Licencia MIT - consulta el archivo [LICENSE](LICENSE) para más detalles.
+
