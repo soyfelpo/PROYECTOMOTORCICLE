@@ -2,7 +2,7 @@
 
 ## 1. Introducción
 
-El presente documento define los requerimientos del sistema de gestión para un parqueadero de motocicletas. El sistema tiene como propósito facilitar el registro y control de las motocicletas que ingresan y salen del parqueadero, así como el cálculo del valor a pagar de acuerdo con el tiempo de permanencia.
+El documento define los requerimientos del sistema de gestión para un parqueadero de motocicletas. El sistema tiene como propósito facilitar el registro y control de las motocicletas que ingresan y salen del parqueadero, así como el cálculo del valor a pagar de acuerdo con el tiempo de permanencia.
 
 El sistema permitirá llevar un control organizado de los espacios disponibles, los vehículos registrados, los horarios de ingreso y salida y los pagos realizados.
 
